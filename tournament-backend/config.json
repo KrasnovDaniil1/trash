@@ -1,0 +1,12 @@
+{
+  "postgres_db": {
+    "server": "95.217.152.98",
+    "port": "5432",
+    "username": "postgres",
+    "password": "password",
+    "db_name": "tournamentdb"
+  },
+  "server": {
+    "port": "8000"
+  }
+}
