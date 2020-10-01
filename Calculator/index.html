@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head> 
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Калькулятор</title>
+</head>
+<body>
+
+<div class = "container bg-secondary" > 
+    <h3  class = "text-center py-5 mt-5" >КАЛЬКУЛЯТОР</h3> 
+    <form onsubmit = "return false" >
+        <div class = "d-flex justify-content-center" >   
+            <input id = "first_icon" type = "number" placeholder = "Число" class = "col-2 form-control mr-3 mb-5" />
+            <select id = "action" class = "col-2 form-control mb-5" >
+                <option>+</option>
+                <option>-</option>
+                <option>*</option>
+                <option>/</option>
+            </select>
+            <input  id = "second_icon"  type = "number"  placeholder = "Число"  class = "col-2 form-control mx-3 mb-5" />
+            <button  id = "button"  class = "col-2 btn btn-primary mb-5" >=</button>
+            <input  id = "decision"  type = "number"  placeholder = "Значение"  class = "col-2 form-control ml-3 mb-5" /> 
+            <script  src = "app.js" ></script>  
+        </div>    
+    </form>
+</div>
+
+</body>
+</html>
