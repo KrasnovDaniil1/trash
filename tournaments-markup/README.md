@@ -1,2 +1,0 @@
-# -tournaments-markup
-Список боёв
