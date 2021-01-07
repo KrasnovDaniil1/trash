@@ -25,4 +25,4 @@
 **learn-redux:** изучал основы Redux ссылка в redmi файла
 <br/>
 <br/>
-**test-mobx** изучал основы mobx ссылка в redmi файла
+**test-mobx:** изучал основы mobx ссылка в redmi файла
