@@ -1,0 +1,75 @@
+{
+  "Nav":{
+    "Main":"Main",
+    "About":"About",
+    "Catalog":"Catalog",
+    "Cart":"Cart"
+  },
+  "Header":{
+    "title":"Publishing House",
+    "phone":"Contacts:"
+  },
+  "Card":{
+    "title":"My basket",
+    "who":"Author:",
+    "tovar":"Product availability:",
+    "price":"Price"
+  },
+  "Footer": {
+    "phone":"Contacts:"
+  },
+  "About": {
+    "about-quote-text":"Culture is the seeds of herbs and flowers that will sprout and bloom the terrible ruins. Culture returns hope to people, and gives their traumatized souls a chance to escape from their nightmares, resentment and revenge.",
+    "about-quote-h1":"Damien Helly" ,
+    
+      
+    "about-center-h1":"About us",
+    "about-center-span":"This page shows, narrates, and has a soundtrack. <br/> According to James McQuivie of Forrester Research, a minute of video is worth 1.8 million words. <br/> But what about audio and video combined with a really cool story? <br/> This is one way to tell your story in a compelling way - through multimedia.",
+    "about-center-text": "Doomtree is built around a very special innovative concept: a group of talented artists can have successful solo careers, but will still regularly come together to create great music.",
+    "about-center-card1-anim-text":"Odio nam diam, cursus ut mi. Ut gravida pellentesque a, leo odio fringilla ut molestie. Lacus pulvinar tristique porttitor tristique ultrices cursus dignissim netus. Sit tellus, vitae sit curabitur etiam enim. Neque, sed lectus cursus massa. Adipiscing quis lorem posuere nunc. Tempus pulvinar id amet tortor amet. Interdum condimentum vitae fringilla enim vel dui pretium platea tempus.",
+    "about-center-card1-bottom-h1":"Ekaterina Temofeeva",
+    "about-center-card1-bottom-text":"Chief Researcher of the book series Cultural Heritage of Uzbekistan",
+    "about-center-card2-anim-text":"Odio nam diam, cursus ut mi. Ut gravida pellentesque a, leo odio fringilla ut molestie. Lacus pulvinar tristique porttitor tristique ultrices cursus dignissim netus. Sit tellus, vitae sit curabitur etiam enim. Neque, sed lectus cursus massa. Adipiscing quis lorem posuere nunc. Tempus pulvinar id amet tortor amet. Interdum condimentum vitae fringilla enim vel dui pretium platea tempus.",
+    "about-center-card2-bottom-h1":"Ekaterina Temofeeva",
+    "about-center-card2-bottom-text":"Chief Researcher of the book series Cultural Heritage of Uzbekistan",
+    "about-center-card3-anim-text":"Odio nam diam, cursus ut mi. Ut gravida pellentesque a, leo odio fringilla ut molestie. Lacus pulvinar tristique porttitor tristique ultrices cursus dignissim netus. Sit tellus, vitae sit curabitur etiam enim. Neque, sed lectus cursus massa. Adipiscing quis lorem posuere nunc. Tempus pulvinar id amet tortor amet. Interdum condimentum vitae fringilla enim vel dui pretium platea tempus.",
+    "about-center-card3-bottom-h1":"Ekaterina Temofeeva",
+    "about-center-card3-bottom-text":"Chief Researcher of the book series Cultural Heritage of Uzbekistan",
+
+
+    "about-bottom-h1":"Amet morbi <br /> volutpat amet ultrices <br/> ut mauris adipiscing elit.",
+    "about-bottom-div-1-span":"Et semper vestibulum id sed facilisi eget. At mattis at morbi luctus cras duis praesent sit. Nulla id malesuada donec et libero. Fringilla feugiat phasellus montes, suspendisse interdum nisi ligula lacus erat. Lectus amet tristique molestie dui.",
+    "about-bottom-div-2-span-1":"Et semper vestibulum id sed facilisi eget. At mattis at morbi luctus cras duis praesent sit. Nulla id malesuada donec et libero. Fringilla feugiat phasellus montes, suspendisse interdum nisi ligula lacus erat. Lectus amet tristique molestie dui.",
+    "about-bottom-div-2-span-2":"Et semper vestibulum id sed facilisi eget. At mattis at morbi luctus cras duis praesent sit. Nulla id malesuada donec et libero. Fringilla feugiat phasellus montes, suspendisse interdum nisi ligula lacus erat. Lectus amet tristique molestie dui.",
+    "about-bottom-div-3-span":"Et semper vestibulum id sed facilisi eget. At mattis at morbi luctus cras duis praesent sit. Nulla id malesuada donec et libero. Fringilla feugiat phasellus montes, suspendisse interdum nisi ligula lacus erat. Lectus amet tristique molestie dui.",
+    "about-bottom-div-4-span-1":"Senectus massa aliquet et at. Lectus pellentesque massa, tellus pulvinar ut. Suspendisse quis eget eu, sem at. Massa congue euismod bibendum orci dis sapien accumsan nibh. Tellus nullam ac, elementum, donec. Viverra id elit nulla id at id. Cursus eleifend nisi aenean congue ipsum tortor ut morbi. Elit elit faucibus turpis facilisi at amet. Velit morbi vel eros, blandit posuere proin egestas gravida etiam. Egestas netus sed odio quis ",
+    "about-bottom-div-4-span-2":"malesuada est pretium diam id. Donec viverra morbi at nisi, ligula. Amet mauris habitasse sagittis morbi ac lacus. Aliquet arcu rutrum tortor mauris ullamcorper velit, ornare turpis. Leo bibendum aliquam orci lacus, massa enim diam. Nisi porttitor et faucibus pellentesque id. Sit vel vestibulum pellentesque facilisis. Pellentesque molestie rutrum dignissim at sit dolor. Justo habitant sed magna vitae quam sit. Dignissim libero arcu luctus consectetur adipiscing pulvinar."
+  
+  },
+
+  "Main":{
+    "main-title":"Collection of the State Museum of the East",
+    "main-text":"The significance of these problems is so obvious that consultation with a broad-based asset plays an important role in shaping future directions of development. On the other hand, the implementation of the planned targets contributes to the preparation and implementation of significant financial and administrative conditions. Likewise, the further development of various forms of activity requires us to analyze the forms of development.",
+    "main-btn":"More details"
+  },
+
+  "Catalog":{
+    "input-placeholder":"Enter the title of the book",
+    "filter":"filter",
+    "btn-push-in-shop":"Add to shopping cart",
+    "btn-about":"More details"
+  },
+
+  "DetailPage": {
+    "card-title":"Author's series “Cultural heritage of Uzbekistan”",
+    "card-title-album":"Book-album",
+    "card-title-bottom":"Collection of the State Museum of the East",
+    "card-ul-1-avtor":"Author of the series",
+    "card-ul-1-who":"Scientific editor",
+    "card-ul-1-year":"The year of publishing",
+    "card-detail":"Introduction",
+    "card-price":"Price:",
+    "card-btn-buy":"BUY NOW",
+    "card-btn-put":"ADD TO SHOPPING CART"
+  }
+}

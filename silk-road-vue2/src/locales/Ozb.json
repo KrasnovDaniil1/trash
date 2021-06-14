@@ -1,0 +1,77 @@
+{
+    "Nav":{
+      "Main":"Asosiy",
+      "About":"Bizni",
+      "Catalog":"Katalog",
+      "Cart":"Savat"
+    },
+    "Header":{
+      "title":"Nashriyot uyi",
+      "phone":"Kontaktlar:"
+    },
+    "Card":{
+      "title":"Mening savatim",
+      "who":"Muallif:",
+      "tovar":"Mahsulotning mavjudligi:",
+      "price":"Narx"
+    },
+    "Footer": {
+      "phone":"Kontaktlar:"
+    },
+    "About": {
+      "about-quote-text":"Madaniyat - bu dahshatli xarobalarni unib chiqadigan va gullaydigan o'tlar va gullarning urug'lari. Madaniyat odamlarga umid bag'ishlaydi va ularning shikastlangan qalblariga kabuslaridan, g'azabidan va qasoslaridan.",
+      "about-quote-h1":"Damien Helly" ,
+      
+      "about-center-h1":"Biz haqimizda",
+      "about-center-span":"Ushbu sahifada saundtrek namoyish etiladi, hikoya qilinadi.<br/> Forrester kompaniyasi xodimi Jeyms MakQuivining so'zlariga ko'ra bir daqiqali videoning qiymati 1,8 million so'zni tashkil qiladi.<br/> Bu sizning hikoyangizni multimediya orqali majburiy tarzda aytib berishning bir usuli.",
+      "about-center-text": "Doomtree juda o'ziga xos innovatsion konsepsiya atrofida qurilgan: iste'dodli rassomlar guruhi yakka kareralarida muvaffaqiyatli bo'lishlari mumkin, ammo baribir doimiy ravishda ajoyib musiqa yaratish uchun birlashadilar.",
+      "about-center-card1-anim-text":"Odio nam diam, cursus ut mi. Ut gravida pellentesque a, leo odio fringilla ut molestie. Lacus pulvinar tristique porttitor tristique ultrices cursus dignissim netus. Sit tellus, vitae sit curabitur etiam enim. Neque, sed lectus cursus massa. Adipiscing quis lorem posuere nunc. Tempus pulvinar id amet tortor amet. Interdum condimentum vitae fringilla enim vel dui pretium platea tempus.",
+      "about-center-card1-bottom-h1":"Yekaterina Temofeeva",
+      "about-center-card1-bottom-text":"O'zbekiston madaniy merosi kitoblari turkumining bosh tadqiqotchisi",
+      "about-center-card2-anim-text":"Odio nam diam, cursus ut mi. Ut gravida pellentesque a, leo odio fringilla ut molestie. Lacus pulvinar tristique porttitor tristique ultrices cursus dignissim netus. Sit tellus, vitae sit curabitur etiam enim. Neque, sed lectus cursus massa. Adipiscing quis lorem posuere nunc. Tempus pulvinar id amet tortor amet. Interdum condimentum vitae fringilla enim vel dui pretium platea tempus.",
+      "about-center-card2-bottom-h1":"Yekaterina Temofeeva",
+      "about-center-card2-bottom-text":"O'zbekiston madaniy merosi kitoblari turkumining bosh tadqiqotchisi",
+      "about-center-card3-anim-text":"Odio nam diam, cursus ut mi. Ut gravida pellentesque a, leo odio fringilla ut molestie. Lacus pulvinar tristique porttitor tristique ultrices cursus dignissim netus. Sit tellus, vitae sit curabitur etiam enim. Neque, sed lectus cursus massa. Adipiscing quis lorem posuere nunc. Tempus pulvinar id amet tortor amet. Interdum condimentum vitae fringilla enim vel dui pretium platea tempus.",
+      "about-center-card3-bottom-h1":"Yekaterina Temofeeva",
+      "about-center-card3-bottom-text":"O'zbekiston madaniy merosi kitoblari turkumining bosh tadqiqotchisi",
+
+
+      "about-bottom-h1":"Amet morbi <br /> volutpat amet ultrices <br/> ut mauris adipiscing elit.",
+      "about-bottom-div-1-span":"Et semper vestibulum id sed facilisi eget. At mattis at morbi luctus cras duis praesent sit. Nulla id malesuada donec et libero. Fringilla feugiat phasellus montes, suspendisse interdum nisi ligula lacus erat. Lectus amet tristique molestie dui.",
+      "about-bottom-div-2-span-1":"Et semper vestibulum id sed facilisi eget. At mattis at morbi luctus cras duis praesent sit. Nulla id malesuada donec et libero. Fringilla feugiat phasellus montes, suspendisse interdum nisi ligula lacus erat. Lectus amet tristique molestie dui.",
+      "about-bottom-div-2-span-2":"Et semper vestibulum id sed facilisi eget. At mattis at morbi luctus cras duis praesent sit. Nulla id malesuada donec et libero. Fringilla feugiat phasellus montes, suspendisse interdum nisi ligula lacus erat. Lectus amet tristique molestie dui.",
+      "about-bottom-div-3-span":"Et semper vestibulum id sed facilisi eget. At mattis at morbi luctus cras duis praesent sit. Nulla id malesuada donec et libero. Fringilla feugiat phasellus montes, suspendisse interdum nisi ligula lacus erat. Lectus amet tristique molestie dui.",
+      "about-bottom-div-4-span-1":"Senectus massa aliquet et at. Lectus pellentesque massa, tellus pulvinar ut. Suspendisse quis eget eu, sem at. Massa congue euismod bibendum orci dis sapien accumsan nibh. Tellus nullam ac, elementum, donec. Viverra id elit nulla id at id. Cursus eleifend nisi aenean congue ipsum tortor ut morbi. Elit elit faucibus turpis facilisi at amet. Velit morbi vel eros, blandit posuere proin egestas gravida etiam. Egestas netus sed odio quis ",
+      "about-bottom-div-4-span-2":"malesuada est pretium diam id. Donec viverra morbi at nisi, ligula. Amet mauris habitasse sagittis morbi ac lacus. Aliquet arcu rutrum tortor mauris ullamcorper velit, ornare turpis. Leo bibendum aliquam orci lacus, massa enim diam. Nisi porttitor et faucibus pellentesque id. Sit vel vestibulum pellentesque facilisis. Pellentesque molestie rutrum dignissim at sit dolor. Justo habitant sed magna vitae quam sit. Dignissim libero arcu luctus consectetur adipiscing pulvinar."
+    
+    },
+
+    "Main":{
+      "main-title":"Sharq davlat muzeyi to'plami",
+      "main-text":"Ushbu muammolarning ahamiyati shunchalik ravshanki, keng ko'lamli aktiv bilan maslahatlashuv rivojlanishning kelajakdagi yo'nalishlarini belgilashda muhim rol o'ynaydi. Boshqa tomondan, rejalashtirilgan maqsadlarning bajarilishi muhim moliyaviy va ma'muriy sharoitlarni tayyorlash va amalga oshirishga yordam beradi. Xuddi shunday, faoliyatning turli shakllarini yanada rivojlantirish bizdan rivojlanish shakllarini tahlil qilishni talab qiladi.",
+      "main-btn":"Batafsil ma'lumot"
+    },
+
+    "Catalog":{
+      "input-placeholder":"Kitobning nomini kiriting",
+      "filter":"filter",
+      "btn-push-in-shop":"Savatga qo'shish",
+      "btn-about":"Batafsil ma'lumot"
+    },
+
+    "DetailPage": {
+      "card-title":"“O'zbekistonning madaniy merosi” mualliflik seriyasi",
+      "card-title-album":"Kitob-albom",
+      "card-title-bottom":"Sharq davlat muzeyi to'plami",
+      "card-ul-1-avtor":"Serial muallifi",
+      "card-ul-1-who":"Ilmiy muharrir",
+      "card-ul-1-year":"Nashriyot yili",
+      "card-detail":"Kirish",
+      "card-price":"Narxi:",
+      "card-btn-buy":"HOZIR XARID QILISH",
+      "card-btn-put":"DOBAVIT V KORZINU"
+    }
+
+
+
+  }

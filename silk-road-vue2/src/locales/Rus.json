@@ -1,0 +1,66 @@
+{
+    "Nav":{
+      "Main":"Главная",
+      "About":"О нас",
+      "Catalog":"Каталог",
+      "Gallery":"Галерея"
+    },
+    "Header":{
+      "title":"Издательский дом",
+      "phone":"Контакты:"
+    },
+    "Card":{
+      "title":"Моя корзина",
+      "who":"Автор:",
+      "tovar":"Наличие товара:",
+      "price":"Цена"
+    },
+    "Footer": {
+      "phone":"Контакты:"
+    },
+    "About": {
+
+      "about-quote-text":"Культура – это семена трав и цветов, которые произрастут и покроют страшные руины своим цветением. Культура возвращает людям надежду, а их травмированным душам дарит шанс уйти от своих кошмаров, обид и мести.",
+      "about-quote-h1":"Дэмиен Хелли",
+
+      "about-center-h1":"О нас",
+      "about-center-span":"Эта страница показывает, рассказывает и имеет саундтрек.<br/> По словам Джеймса Маккуиви из Forrester Research, минута видео стоит 1,8 миллиона слов.<br/> Но как насчет аудио и видео в сочетании с действительно классной историей?<br/> Это один из способов рассказать свою историю увлекательно — через мультимедиа.",
+      "about-center-text": "Doomtree построен на основе особенной инновационной концепции: группа талантливых артистов может иметь успешную сольную карьеру, но все же будет регулярно собираться вместе для создания великолепной музыки.",
+      "about-center-card1-anim-text":"Odio nam diam, cursus ut mi. Ut gravida pellentesque a, leo odio fringilla ut molestie. Lacus pulvinar tristique porttitor tristique ultrices cursus dignissim netus. Sit tellus, vitae sit curabitur etiam enim. Neque, sed lectus cursus massa. Adipiscing quis lorem posuere nunc. Tempus pulvinar id amet tortor amet. Interdum condimentum vitae fringilla enim vel dui pretium platea tempus.",
+      "about-center-card1-bottom-h1":"Екатерина Темофеева",
+      "about-center-card1-bottom-text":"Главный научный сотрудник серии книг Культурное Наследие Узбекистана",
+      "about-center-card2-anim-text":"Odio nam diam, cursus ut mi. Ut gravida pellentesque a, leo odio fringilla ut molestie. Lacus pulvinar tristique porttitor tristique ultrices cursus dignissim netus. Sit tellus, vitae sit curabitur etiam enim. Neque, sed lectus cursus massa. Adipiscing quis lorem posuere nunc. Tempus pulvinar id amet tortor amet. Interdum condimentum vitae fringilla enim vel dui pretium platea tempus.",
+      "about-center-card2-bottom-h1":"Екатерина Темофеева",
+      "about-center-card2-bottom-text":"Главный научный сотрудник серии книг Культурное Наследие Узбекистана",
+      "about-center-card3-anim-text":"Odio nam diam, cursus ut mi. Ut gravida pellentesque a, leo odio fringilla ut molestie. Lacus pulvinar tristique porttitor tristique ultrices cursus dignissim netus. Sit tellus, vitae sit curabitur etiam enim. Neque, sed lectus cursus massa. Adipiscing quis lorem posuere nunc. Tempus pulvinar id amet tortor amet. Interdum condimentum vitae fringilla enim vel dui pretium platea tempus.",
+      "about-center-card3-bottom-h1":"Екатерина Темофеева",
+      "about-center-card3-bottom-text":"Главный научный сотрудник серии книг Культурное Наследие Узбекистана"
+    },
+
+    "Main":{
+      "main-title":"Собрание государственного музея востока",
+      "main-text":"Значимость этих проблем настолько очевидна, что консультация с широким активом играет важную роль в формировании дальнейших направлений развития. С другой стороны реализация намеченных плановых заданий способствует подготовки и реализации существенных финансовых и административных условий. Равным образом дальнейшее развитие различных форм деятельности требуют от нас анализа форм развития.",
+      "main-btn":"Подробнее"
+    },
+
+    "Catalog":{
+        "input-placeholder":"Введите название книги",
+        "filter":"фильтр",
+        "btn-push-in-shop":"Добавить в корзину",
+        "btn-about":"Подробнее"
+    },
+
+    "DetailPage": {
+      "card-title":"Авторская серия  “Культурное наследие Узбекистана”",
+      "card-title-album":"Книга-альбом",
+      "card-title-bottom":"Собрание государственного музея востока",
+      "card-ul-1-avtor":"Автор серии",
+      "card-ul-1-who":"Научный редактор",
+      "card-ul-1-year":"Год издания",
+      "card-detail":"Введение",
+      "card-price":"Цена:",
+      "card-btn-buy":"КУПИТЬ СЕЙЧАС",
+      "card-btn-put":"ДОБАВИТЬ В КОРЗИНУ"
+    }
+    
+}
