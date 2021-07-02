@@ -1,0 +1,89 @@
+{
+  "header": {
+    "name": "Nashriyot uyi",
+    "main": "Asosiy",
+    "catalog": "Kitoblar katalogi",
+    "about": "Biz haqimizda",
+    "cart": "Savat",
+    "price": "Narxi",
+    "book-album": "Kitob-albom",
+    "total": "Jami",
+    "proceed-to-checkout": "To'lashga o'tish",
+    "sum": "sum",
+    "nothing-in-cart": "Savat bo'sh"
+  },
+  "footer": {
+    "help": "Hamkorlar:"
+  },
+  "index": {
+    "qiote": "«Donolikdan yaxshi boylik yo'q; johiliyatdan yomonroq qashshoqlik yo'q; vijdondan yaxshi nasl berishdan va undan yaxshi himoya qilishdan yaxshi meros yo'q»",
+    "quote-name": "Ali ibn Talib",
+    "author-book": "Seriya muallifi, loyiha direktori:",
+    "year-book": "Nashr qilingan yil:",
+    "buy": "Oldindan buyurtma",
+    "popular-book": "Ommabop kitoblar",
+    "about-book": "Batafsil",
+    "detail-book": "Batafsil",
+    "go-to-catalog": "Katalogga o'tish",
+    "author-book-album": "«O'ZBEKISTONNING MADANIY MEROSI» mualliflik seriyasi",
+    "reviews": "Sharhlar"
+  },
+  "about": {
+    "text": "Biz «Silk Road Media» nashriyoti 2017 yildan hozirgi kungacha faoliyat yuritib kelmoqdamiz. Shu vaqt ichida biz O'zbekistonning madaniy merosiga oid bir qator kitoblar, albomlar, ilmiy ishlar nashr qildik"
+  },
+  "pages": [
+    {
+      "imgText": "Dunyo to'plamlarida O'zbekistonning «Madaniy merosi» turkumining 33 jildli kitob-albomlari",
+      "text": "Kitoblarda O'zbekiston zaminida turli davrlarda va davrlarda yaratilgan, ammo u yoki bu sabablarga ko'ra bugun butun dunyo bo'ylab kutubxonalar, muzeylar, ilmiy va madaniy muassasalar va shaxsiy to'plamlarda saqlanayotgan madaniy meros haqida hikoya qilinadi. Uch tilda (o'zbek, ingliz, rus) nashr etilgan kitob-albomlarni nashr etish, shuningdek, O'zbekiston hududidan kelib chiqqan va xorijiy to'plamlarda joylashgan moddiy va badiiy madaniyat ob'ektlariga bag'ishlangan hujjatli filmlarni yaratish. keng jamoatchilik va mutaxassislar uchun kam ma'lum bo'lgan yoki umuman noma'lum bo'lgan taniqli durdona va asarlar."
+    },
+    {
+      "imgText": "«O'zbekistonning me'moriy epigrafiyasi» turkumi",
+      "text": "Bugungi kunda O'zbekistonda jadal zamonaviylik azaliy azaliy donolik va an'analar bilan hamnafas. 13 jildda nashr etilgan «O'zbekistonning me'moriy epigrafiyasi» noyob loyihasi mamlakatning qadimiy yodgorliklarida eng boy madaniy va tarixiy merosni aks ettiruvchi epigrafik yozuvlar haqida hikoya qiladi. Asrlar qa'ridan kelgan ushbu dono xabarlarni ochish bo'yicha o'zbek olimlarining uzoq va mashaqqatli ishi olti yildan ortiq davom etdi.Loyihaning asosiy g'oyasi madaniyat sifatida va ma'rifatli Islom dinini din sifatida keng jamoatchilikka etkazishdir. tinchlik, ezgulik va bag'rikenglik. Har bir yozuvning ma'nosi va mohiyati hozirgi paytda dolzarbdir. Ko'p asrlar oldin yaratilgan o'qilgan yozuvlar o'zaro tushunishni va kelishuvni talab qiladi, fanatizmdan ogohlantiradi va hk. nafrat, O'zbekiston tarixida sodir bo'lgan eng yaxshi voqealar haqida gapirib bering. Agar siz «ta^ee» ning ma'rifiy islom ekanligini aniq bilmoqchi bo'lsangiz, avvalo buyuk ajdodlarimiz tomonidan bizga qoldirilgan noyob tarixiy me'moriy yodgorliklarga, O'zbekistonning tarixiy me'moriy yodgorliklariga oid yozuvlarga murojaat qilishingiz kerak."
+    },
+    {
+      "imgText": "Turkumi «Ilm va madaniyat olimlar asarlarida»",
+      "text": "Ushbu nashriyot seriyasi o'tmishda yaratilgan, ammo ilmiy jihatdan katta qiziqish va dolzarb ahamiyatga ega bo'lgan, hozirda tadqiqotchilar uchun mavjud bo'lmagan monografiyalarni qayta nashr etishni, shuningdek ularni tadqiqot va ilmiy doiralar bilan keng tanishish uchun uchta tilga tarjima qilishni maqsad qilgan. keng jamoatchilik sifatida. o'tmishning taniqli olimlari asarlari bilan."
+    },
+    {
+      "imgText": "Turkumi «O'zbekistonning 100 ta ajoyib qo'lyozma yodgorliklari»",
+      "text": "Loyiha bir vaqtlar O'zbekiston hududida yaratilgan O'rta asrlarning noyob yozma merosi namunalarining faksimil nusxalarini yaratishni o'z ichiga oladi. Qo'lyozmalarning aniq faksimil nusxalarini yaratish, shuningdek ularni muzeylarga, kutubxonalarga, ilmiy-tadqiqot va madaniy muassasalarga bepul tarqatish turli xil to'plamlarda mavjud bo'lgan o'zbek merosi qo'lyozmalarining ulkan * ilgari deyarli o'rganilmagan qo'lyozmalar to'plamini ilmiy muomalaga kiritish imkonini beradi. shuningdek, ular uchun qo'shimcha imkoniyatlar yaratadi. keyingi o'rganish."
+    },
+    {
+      "imgText": "3D texnologiyalar va kengaytirilgan haqiqat",
+      "text": "O'zbekistonda birinchi marta ilmiy-ommabop adabiyot zamonaviy kontekstni topdi: endi zamonaviy axborot texnologiyalari matbaa sanoatida kitob-albomlarda qo'llaniladi. Smartfoningizni kitob sahifasiga yo'naltirish orqali ma'lum kollektsiya yoki artefakt haqida 3D formatida maxsus suratga olingan videoni ko'rishingiz mumkin."
+    },
+    {
+      "imgText": "Hujjatli filmlar",
+      "text": "Zamonaviy texnologiyalar, shuningdek, nashriyotning O'zbekistonning boy merosi haqidagi noyob madaniy-ma'rifiy materiallarni keng auditoriyaga yanada qulayroq qilish istagi tufayli har bir kitob-albomda siz haqida hujjatli film bo'lgan diskni topishingiz mumkin. taniqli olimlarning batafsil intervyulari bilan muzeylar va kutubxonalarning ma'lum bir to'plami. tarixchilar, arxeologlar, sharqshunoslar va boshqa mutaxassislar. Barcha filmlar uchta tilda mavjud."
+    }
+  ],
+  "modal": {
+    "window-buy": "Xarid qilish oynasi",
+    "write_input": "Xarid qilish uchun maydonlarni to'ldiring",
+    "name-surname-other": "F.I.O",
+    "number": "Telefon raqami",
+    "adreess": "Etkazib berish manzili",
+    "help-text": "Yaqin kelajakda «Silk Road Media» nashriyotining xodimi buyurtmani tasdiqlash, shuningdek to'lovni amalga oshirish uchun siz bilan bog'lanadi.",
+    "go-in-cart": "Savatga qaytish",
+    "name-placeholder": "Abduhamidov Azizbek Arslonovich",
+    "address-placeholder": "Toshkent sh., Chilonzor tumani, Fitrat ko'chasi, 23-chi xonadon",
+    "send": "Jo'natish",
+    "sent": "Jo'natildi"
+  },
+  "catalog": {
+    "page": "Sahifa",
+    "page_in": "ichida",
+    "in-cart": "Savatga",
+    "added": "Qo'shildi"
+  },
+  "detail": {
+    "back-to-list": "Ro'yxatga qaytish",
+    "introduction": "Tanishtirish",
+    "redactor": "Ilmiy muharrir",
+    "author": "Turqum muallifi, loyiha rahbari",
+    "year": "Nashriyot yili",
+    "dvd": "DVD disk kiritilgan",
+    "exclusive": "Eksklyuziv Nashr",
+    "buy-now": "Xarid qilish"
+  }
+}

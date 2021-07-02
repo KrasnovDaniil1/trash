@@ -1,0 +1,89 @@
+{
+  "header": {
+    "name": "Publishing House",
+    "main": "Main",
+    "catalog": "Book catalog",
+    "about": "About Us",
+    "cart": "Cart",
+    "price": "Price",
+    "book-album": "Book-album",
+    "total": "Total",
+    "proceed-to-checkout": "Proceed to checkout",
+    "sum": "sum",
+    "nothing-in-cart": "Nothing in cart"
+  },
+  "footer": {
+    "help": "Supported by:"
+  },
+  "index": {
+    "qiote": "“There is no better wealth than wisdom; there is no poverty worse than ignorance; there is no better heritage than good breeding and better protection than conscience.”",
+    "quote-name": "Ali ibn Taleeb",
+    "author-book": "Series author, project manager:",
+    "year-book": "Publishing year:",
+    "buy": "Pre-order",
+    "popular-book": "Popular books",
+    "about-book": "About",
+    "detail-book": "Details",
+    "go-to-catalog": "Go to catalog",
+    "author-book-album": "Author's series «CULTURAL HERITAGE OF UZBEKISTAN»",
+    "reviews": "Reviews"
+  },
+  "about": {
+    "text": "We Publishing House «Silk Road Media» have been operating from 2017 to the present. During this time, we have published a number of books, albums, scientific works on the cultural heritage of Uzbekistan"
+  },
+  "pages": [
+    {
+      "imgText": "33 volumes of books-albums of the series «Cultural heritage» of Uzbekistan in the collections of the world",
+      "text": "The books tell about the cultural heritage created at different times and eras on the land of Uzbekistan, but for one reason or another stored today in libraries, museums, scientific and cultural institutions and private collections around the world. <div style = 'width: auto; height: 4vh; '> </div> Publication of books-albums published in three languages ​​(Uzbek, English, Russian), as well as the creation of documentaries dedicated to objects of material and artistic culture originating from the territory of Uzbekistan and located in foreign collections, consists of both globally recognized masterpieces and artifacts that are little known or completely unknown to the general public and specialists."
+    },
+    {
+      "imgText": "Series «Architectural epigraphy of Uzbekistan»",
+      "text": "Today in Uzbekistan, dynamic modernity goes hand in hand with deep age-old wisdom and traditions. The unique project «Architectural Epigraphy of Uzbekistan», published in 13 volumes, tells about the epigraphic inscriptions on the ancient monuments of the country, representing the richest cultural and historical heritage. The long and painstaking work of Uzbek scientists to decipher these wise messages from the depths of the centuries lasted more than six years.The main idea of ​​the project is to bring to the general public the ideas about civilized and enlightened Islam as a religion of peace, goodness and tolerance. The meaning and essence of each inscription is relevant at the present time. The read inscriptions, created many centuries ago, call for mutual understanding and agreement, warn against fanaticism, etc. hatred, tell about all the best that happened in the history of Uzbekistan. If you want to know for sure that «ta^ee» is enlightened Islam, first of all you need to turn to unique wise edifications, inscriptions on historical architectural monuments of Uzbekistan left to us by our great ancestors. "
+    },
+    {
+      "imgText": "Series «Science and Culture in the Works of Scientists»",
+      "text": "This publishing series aims to republish monographs created in the past, but still of great interest and relevance for science, which are now inaccessible to researchers, as well as their translation into three languages ​​for wider familiarization with research and scientific circles, as well as the general public. with the works of outstanding scientists of the past."
+    },
+    {
+      "imgText": "Series «100 Outstanding Manuscript Monuments of Uzbekistan»",
+      "text": "The project involves the creation of facsimile copies of samples of the unique written heritage of the Middle Ages, once created on the territory of Uzbekistan. The creation of exact facsimile copies of manuscripts, as well as their free distribution to museums, libraries, research and cultural institutions will allow to introduce into scientific circulation a huge * previously practically unexplored collection of manuscript masterpieces of the Uzbek heritage that are in various collections of the world, as well as create additional opportunities for them. further study."
+    },
+    {
+      "imgText": "3D technologies and augmented reality",
+      "text": "For the first time in Uzbekistan, popular science literature has found a modern context: now modern information technologies are used in book-albums in the printing industry. By pointing your smartphone at a book page, you can view a specially filmed video about a particular collection or an artifact in 3D"
+    },
+    {
+      "imgText": "Documentaries",
+      "text": "Thanks to modern technologies, as well as the desire of the publishing house to make the unique cultural and educational material about the rich heritage of Uzbekistan more accessible to a wide audience, in each book-album you can find a disc with a documentary film about a particular collection of museums and libraries with detailed interviews of prominent scientists. historians, archaeologists, orientalists and other experts. All films are available in three languages."
+    }
+  ],
+  "modal": {
+    "window-buy": "Purchase window",
+    "write_input": "Fill in the fields to make a purchase",
+    "name-surname-other": "Full name",
+    "number": "Phone number",
+    "adreess": "Delivery address",
+    "help-text": "In the near future an employee of the publishing house “Silk Road Media” will contact you to confirm the order, as well as to make the payment.",
+    "go-in-cart": "Back to cart",
+    "name-placeholder": "John Doe Foo",
+    "address-placeholder": "Tashkent city, Chilanzar district, Fitrat street, 23 house",
+    "send": "Send",
+    "sent": "Sent"
+  },
+  "catalog": {
+    "page": "Page",
+    "page_in": "in",
+    "in-cart": "In Cart",
+    "added": "Added"
+  },
+  "detail": {
+    "back-to-list": "Back to the list",
+    "introduction": "Introduction",
+    "redactor": "Scientific editor",
+    "author": "Series author, Head of project",
+    "year": "Publishing Year",
+    "dvd": "DVD disc included",
+    "exclusive": "Exclusive Edition",
+    "buy-now": "Buy now"
+  }
+}

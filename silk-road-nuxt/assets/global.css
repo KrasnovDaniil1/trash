@@ -1,0 +1,46 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+ul,
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+button,
+a {
+  cursor: pointer;
+}
+@font-face {
+  font-family: 'NK147';
+  src: url(assets/fonts/NK147.ttf);
+}
+@font-face {
+  font-family: 'Monofonto';
+  src: url(assets/fonts/Monofonto.ttf);
+}
+@font-face {
+  font-family: 'Cormorant';
+  src: url(assets/fonts/Cormorant.ttf);
+}
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url(assets/fonts/Comfortaa.ttf);
+}
+
+@font-face {
+  font-family: 'Bitter';
+  src: url(assets/fonts/Bitter-Regular.ttf);
+}
